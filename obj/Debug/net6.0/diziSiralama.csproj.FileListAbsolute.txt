@@ -1,0 +1,15 @@
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/bin/Debug/net6.0/diziSiralama
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/bin/Debug/net6.0/diziSiralama.deps.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/bin/Debug/net6.0/diziSiralama.runtimeconfig.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/bin/Debug/net6.0/diziSiralama.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/bin/Debug/net6.0/diziSiralama.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/obj/Debug/net6.0/diziSiralama.csproj.AssemblyReference.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/obj/Debug/net6.0/diziSiralama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/obj/Debug/net6.0/diziSiralama.AssemblyInfoInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/obj/Debug/net6.0/diziSiralama.AssemblyInfo.cs
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/obj/Debug/net6.0/diziSiralama.csproj.CoreCompileInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/obj/Debug/net6.0/diziSiralama.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/obj/Debug/net6.0/refint/diziSiralama.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/obj/Debug/net6.0/diziSiralama.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/obj/Debug/net6.0/diziSiralama.genruntimeconfig.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/diziSiralama/obj/Debug/net6.0/ref/diziSiralama.dll
